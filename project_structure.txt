@@ -1,0 +1,14 @@
+air_quality_app/FILE_ORGANIZATION.md
+air_quality_app/QUICKSTART.md
+air_quality_app/README.md
+air_quality_app/app.py
+air_quality_app/config.py
+air_quality_app/data/README.md
+air_quality_app/models/__init__.py
+air_quality_app/models/air_quality_model.py
+air_quality_app/requirements.txt
+air_quality_app/static/css/style.css
+air_quality_app/static/js/main.js
+air_quality_app/templates/index.html
+air_quality_app/utils/__init__.py
+air_quality_app/utils/model_utils.py
